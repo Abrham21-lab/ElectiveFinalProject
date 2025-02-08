@@ -1,0 +1,16 @@
+C:\Users\Abrsh\source\repos\Symptom-Based-Near-HealthCare-Center-Recommendation-System-With-First-Aid-API\obj\Debug\net8.0\EventDrivenAPI.csproj.AssemblyReference.cache
+C:\Users\Abrsh\source\repos\Symptom-Based-Near-HealthCare-Center-Recommendation-System-With-First-Aid-API\obj\Debug\net8.0\EventDrivenAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abrsh\source\repos\Symptom-Based-Near-HealthCare-Center-Recommendation-System-With-First-Aid-API\obj\Debug\net8.0\EventDrivenAPI.AssemblyInfoInputs.cache
+C:\Users\Abrsh\source\repos\Symptom-Based-Near-HealthCare-Center-Recommendation-System-With-First-Aid-API\obj\Debug\net8.0\EventDrivenAPI.AssemblyInfo.cs
+C:\Users\Abrsh\source\repos\Symptom-Based-Near-HealthCare-Center-Recommendation-System-With-First-Aid-API\obj\Debug\net8.0\EventDrivenAPI.csproj.CoreCompileInputs.cache
+C:\Users\Abrsh\source\repos\Symptom-Based-Near-HealthCare-Center-Recommendation-System-With-First-Aid-API\obj\Debug\net8.0\EventDrivenAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abrsh\source\repos\Symptom-Based-Near-HealthCare-Center-Recommendation-System-With-First-Aid-API\obj\Debug\net8.0\EventDrivenAPI.RazorAssemblyInfo.cache
+C:\Users\Abrsh\source\repos\Symptom-Based-Near-HealthCare-Center-Recommendation-System-With-First-Aid-API\obj\Debug\net8.0\EventDrivenAPI.RazorAssemblyInfo.cs
+C:\Users\Abrsh\source\repos\EventDrivenAPI\obj\Debug\net8.0\EventDrivenAPI.csproj.AssemblyReference.cache
+C:\Users\Abrsh\source\repos\EventDrivenAPI\obj\Debug\net8.0\EventDrivenAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abrsh\source\repos\EventDrivenAPI\obj\Debug\net8.0\EventDrivenAPI.AssemblyInfoInputs.cache
+C:\Users\Abrsh\source\repos\EventDrivenAPI\obj\Debug\net8.0\EventDrivenAPI.AssemblyInfo.cs
+C:\Users\Abrsh\source\repos\EventDrivenAPI\obj\Debug\net8.0\EventDrivenAPI.csproj.CoreCompileInputs.cache
+C:\Users\Abrsh\source\repos\EventDrivenAPI\obj\Debug\net8.0\EventDrivenAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abrsh\source\repos\EventDrivenAPI\obj\Debug\net8.0\EventDrivenAPI.RazorAssemblyInfo.cache
+C:\Users\Abrsh\source\repos\EventDrivenAPI\obj\Debug\net8.0\EventDrivenAPI.RazorAssemblyInfo.cs
